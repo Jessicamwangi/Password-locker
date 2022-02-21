@@ -181,4 +181,5 @@ def passlocker():
     else:
         print("Please enter a valid input to continue")
 
-
+if __name__ == '__main__':
+    passlocker()
