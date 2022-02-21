@@ -13,23 +13,23 @@ As a User you are able to :
 
 - Generate a new password for an account that you haven't registered for and store it with the account name
 
--Dekete stored accounts that you have no need for.
+- Delete stored accounts that you have no need for.
 
 - Copy your credentials to the clipboard.
 ## Setup/Installation Requirements
 To Be able to view this, you need:
 
--To have access to github.
+- To have access to github.
 
--To have access to terminal.
+- To have access to terminal.
 
--To have downloaded python , pyperclip and pip.
+- To have downloaded python , pyperclip and pip.
 
--To have downloaded pyhton extensions(this help to make your work easier)
+- To have downloaded pyhton extensions(this help to make your work easier)
 
--To have to have either Vs code or atom
+- To have to have either Vs code or atom
 
--Do git clone https://github.com/Jessicamwangi/Password-locker.git to be able to clone this file to your computer and view it.
+- Do git clone https://github.com/Jessicamwangi/Password-locker.git to be able to clone this file to your computer and view it.
 
 ### Run The Application
  
@@ -37,27 +37,16 @@ To Be able to view this, you need:
 
  - Clone the file and open it in terminal.
 
- -open the user interface file and on your top left you should see a run button(this is there if you have installed the python extensions). Click it and you are good to go
+ - Open the user interface file and on your top left you should see a run button(this is there if you have installed the python extensions). Click it and you are good to go
 
- - do the following command to run the tests:
+ - Do the following command to run the tests:
    
    -python3 password_test.py
 
 ## Technologies Used
-Technologies used in this webpage are 
-HTML.
+Technologies used in this application are :
 
-CSS.
-
-Bootstrap.
-
-Fontawsome.
-
-JavaScript.
-
-TypeScript.
-
-Bootstrap.js.
+- Python3.10.
 ### License
-Copyright (c) [2021] [Jessica Mwangi.]
+Copyright (c) [2022] [Jessica Mwangi.]
 [MIT License](https://choosealicense.com/licenses/mit/)
