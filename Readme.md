@@ -2,9 +2,9 @@
 #### By Jessica Mwangi
 ## Description
 
-This is a project  which  manages and stores the login and signup credentials of a user for each account 
+This is a project  which  manages and stores the login and signup credentials of a user for each account. it stores the passwords for the user if they don't want to generate a new one.
 ## Setup/Installation Requirements
-To Be able to view this webpage, you need:
+To Be able to view this, you need:
 
 -To have access to github.
 
