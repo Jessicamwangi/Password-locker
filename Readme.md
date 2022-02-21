@@ -25,9 +25,24 @@ To Be able to view this, you need:
 
 -To have downloaded python , pyperclip and pip.
 
+-To have downloaded pyhton extensions(this help to make your work easier)
+
 -To have to have either Vs code or atom
 
 -Do git clone https://github.com/Jessicamwangi/Password-locker.git to be able to clone this file to your computer and view it.
+
+### Run The Application
+ 
+ To run this application do the following:
+
+ - Clone the file and open it in terminal.
+
+ -open the user interface file and on your top left you should see a run button(this is there if you have installed the python extensions). Click it and you are good to go
+
+ - do the following command to run the tests:
+   
+   -python3 password_test.py
+
 ## Technologies Used
 Technologies used in this webpage are 
 HTML.
